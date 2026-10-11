@@ -1,0 +1,106 @@
+category,sku_name,mrp,cogs,discount_pct,effective_price,weekly_units_sold,initial_stock,projected_revenue,gross_margin_inr,gross_margin_pct,sell_through_rate_pct,price_elasticity
+Performance Running,AeroPulse Nitro 3,12999,4939.62,0,12999.0,176,3360,2287824.0,1418450.88,62.0,20.95,-1.66
+Performance Running,AeroPulse Nitro 3,12999,4939.62,10,11699.1,207,3360,2421713.7,1399212.36,57.78,24.64,-1.81
+Performance Running,AeroPulse Nitro 3,12999,4939.62,15,11049.15,223,3360,2463960.45,1362425.19,55.29,26.55,-1.89
+Performance Running,AeroPulse Nitro 3,12999,4939.62,20,10399.2,261,3360,2714191.2,1424950.38,52.5,31.07,-1.86
+Performance Running,AeroPulse Nitro 3,12999,4939.62,30,9099.3,346,3360,3148357.8,1439249.28,45.71,41.19,-1.89
+Performance Running,AeroPulse Nitro 3,12999,4939.62,40,7799.4,438,3360,3416137.2,1252583.64,36.67,52.14,-1.93
+Performance Running,AeroPulse Nitro 3,12999,4939.62,50,6499.5,658,3360,4276671.0,1026401.04,24.0,78.33,-1.92
+Performance Running,Carbon Elite Racer,10999,4179.62,0,10999.0,164,2466,1803836.0,1118378.32,62.0,26.6,-1.71
+Performance Running,Carbon Elite Racer,10999,4179.62,10,9899.1,200,2466,1979820.0,1143896.0,57.78,32.44,-1.71
+Performance Running,Carbon Elite Racer,10999,4179.62,15,9349.15,230,2466,2150304.5,1188991.9,55.29,37.31,-1.93
+Performance Running,Carbon Elite Racer,10999,4179.62,20,8799.2,261,2466,2296591.2,1205710.38,52.5,42.34,-1.89
+Performance Running,Carbon Elite Racer,10999,4179.62,30,7699.3,311,2466,2394482.3,1094620.48,45.71,50.45,-1.76
+Performance Running,Carbon Elite Racer,10999,4179.62,40,6599.4,391,2466,2580365.4,946133.98,36.67,63.42,-1.69
+Performance Running,Carbon Elite Racer,10999,4179.62,50,5499.5,539,2466,2964230.5,711415.32,24.0,87.43,-1.72
+Performance Running,Veloce Stride Pro,8999,3419.62,0,8999.0,211,3024,1898789.0,1177249.18,62.0,27.91,-1.75
+Performance Running,Veloce Stride Pro,8999,3419.62,10,8099.1,270,3024,2186757.0,1263459.6,57.78,35.71,-1.81
+Performance Running,Veloce Stride Pro,8999,3419.62,15,7649.15,286,3024,2187656.9,1209645.58,55.29,37.83,-1.85
+Performance Running,Veloce Stride Pro,8999,3419.62,20,7199.2,312,3024,2246150.4,1179228.96,52.5,41.27,-1.74
+Performance Running,Veloce Stride Pro,8999,3419.62,30,6299.3,406,3024,2557515.8,1169150.08,45.71,53.7,-1.78
+Performance Running,Veloce Stride Pro,8999,3419.62,40,5399.4,581,3024,3137051.4,1150252.18,36.67,76.85,-1.94
+Performance Running,Veloce Stride Pro,8999,3419.62,50,4499.5,820,3024,3689590.0,885501.6,24.0,100.0,-1.93
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,0,6999.0,274,2473,1917726.0,1246521.9,65.0,44.32,-2.4
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,10,6299.1,349,2473,2198385.9,1343458.05,61.11,56.45,-2.3
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,15,5949.15,392,2473,2332066.8,1371804.0,58.82,63.4,-2.4
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,20,5599.2,451,2473,2525239.2,1420447.05,56.25,72.95,-2.19
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,30,4899.3,635,2473,3111055.5,1555527.75,50.0,100.0,-2.43
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,40,4199.4,870,2473,3653478.0,1522282.5,41.67,100.0,-2.29
+Lifestyle & Streetwear,Heritage Court Suede,6999,2449.65,50,3499.5,1362,2473,4766319.0,1429895.7,30.0,100.0,-2.32
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,0,7999.0,159,2904,1271841.0,826696.65,65.0,21.9,-2.4
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,10,7199.1,203,2904,1461417.3,893088.35,61.11,27.96,-2.23
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,15,6799.15,234,2904,1591001.1,935883.0,58.82,32.23,-2.32
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,20,6399.2,277,2904,1772578.4,997075.35,56.25,38.15,-2.41
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,30,5599.3,332,2904,1858967.6,929483.8,50.0,45.73,-2.18
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,40,4799.4,538,2904,2582077.2,1075865.5,41.67,74.1,-2.43
+Lifestyle & Streetwear,Palermo Retro Classic,7999,2799.65,50,3999.5,722,2904,2887639.0,866291.7,30.0,99.45,-2.24
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,0,4499.0,166,2070,746834.0,485442.1,65.0,32.08,-2.25
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,10,4049.1,209,2070,846261.9,517160.05,61.11,40.39,-2.37
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,15,3824.15,244,2070,933092.6,548878.0,58.82,47.15,-2.31
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,20,3599.2,290,2070,1043768.0,587119.5,56.25,56.04,-2.29
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,30,3149.3,356,2070,1121150.8,560575.4,50.0,68.79,-2.16
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,40,2699.4,592,2070,1598044.8,665852.0,41.67,100.0,-2.37
+Lifestyle & Streetwear,Urban Low Leather,4499,1574.65,50,2249.5,846,2070,1903077.0,570923.1,30.0,100.0,-2.4
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,0,6499.0,263,2439,1709237.0,1025542.2,60.0,43.13,-1.35
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,10,5849.1,330,2439,1930203.0,1072335.0,55.56,54.12,-1.45
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,15,5524.15,336,2439,1856114.4,982648.8,52.94,55.1,-1.41
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,20,5199.2,367,2439,1908106.4,954053.2,50.0,60.19,-1.37
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,30,4549.3,461,2439,2097227.3,898811.7,42.86,75.6,-1.54
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,40,3899.4,569,2439,2218758.6,739586.2,33.33,93.32,-1.45
+Motorsport Inspired,Scuderia Speed Cat,6499,2599.6,50,3249.5,753,2439,2446873.5,489374.7,20.0,100.0,-1.43
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,0,8999.0,169,2557,1520831.0,912498.6,60.0,26.44,-1.53
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,10,8099.1,203,2557,1644117.3,913398.5,55.56,31.76,-1.51
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,15,7649.15,221,2557,1690462.15,894950.55,52.94,34.57,-1.44
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,20,7199.2,242,2557,1742206.4,871103.2,50.0,37.86,-1.35
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,30,6299.3,280,2557,1763804.0,755916.0,42.86,43.8,-1.34
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,40,5399.4,352,2557,1900588.8,633529.6,33.33,55.06,-1.35
+Motorsport Inspired,Grand Prix Track Top,8999,3599.6,50,4499.5,504,2557,2267748.0,453549.6,20.0,78.84,-1.51
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,0,5999.0,191,2884,1145809.0,687485.4,60.0,26.49,-1.46
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,10,5399.1,217,2884,1171604.7,650891.5,55.56,30.1,-1.29
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,15,5099.15,246,2884,1254390.9,664089.3,52.94,34.12,-1.26
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,20,4799.2,274,2884,1314980.8,657490.4,50.0,38.0,-1.48
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,30,4199.3,340,2884,1427762.0,611898.0,42.86,47.16,-1.45
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,40,3599.4,386,2884,1389368.4,463122.8,33.33,53.54,-1.42
+Motorsport Inspired,Apex Racing Jersey,5999,2399.6,50,2999.5,496,2884,1487752.0,297550.4,20.0,68.79,-1.38
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,0,1999.0,249,3496,497751.0,338470.68,68.0,28.49,-1.95
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,10,1799.1,299,3496,537930.9,346666.58,64.44,34.21,-2.23
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,15,1699.15,329,3496,559020.35,348565.63,62.35,37.64,-2.11
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,20,1599.2,365,3496,583708.0,350224.8,60.0,41.76,-2.07
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,30,1399.3,509,3496,712243.7,386646.58,54.29,58.24,-2.03
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,40,1199.4,761,3496,912743.4,425946.92,46.67,87.07,-2.23
+Training & Activewear,AeroDry Tech Hoodie,1999,639.68,50,999.5,1090,3496,1089455.0,392203.8,36.0,100.0,-2.17
+Training & Activewear,Motion Flex Tights,2499,799.68,0,2499.0,279,3134,697221.0,474110.28,68.0,35.61,-2.12
+Training & Activewear,Motion Flex Tights,2499,799.68,10,2249.1,351,3134,789434.1,508746.42,64.44,44.8,-2.23
+Training & Activewear,Motion Flex Tights,2499,799.68,15,2124.15,368,3134,781687.2,487404.96,62.35,46.97,-1.96
+Training & Activewear,Motion Flex Tights,2499,799.68,20,1999.2,454,3134,907636.8,544582.08,60.0,57.95,-2.25
+Training & Activewear,Motion Flex Tights,2499,799.68,30,1749.3,582,3134,1018092.6,552678.84,54.29,74.28,-2.06
+Training & Activewear,Motion Flex Tights,2499,799.68,40,1499.4,775,3134,1162035.0,542283.0,46.67,98.92,-1.96
+Training & Activewear,Motion Flex Tights,2499,799.68,50,1249.5,1121,3134,1400689.5,504248.22,36.0,100.0,-2.05
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,0,3499.0,226,1780,790774.0,537726.32,68.0,50.79,-2.24
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,10,3149.1,298,1780,938431.8,604767.16,64.44,66.97,-2.1
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,15,2974.15,322,1780,957676.3,597139.34,62.35,72.36,-1.97
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,20,2799.2,384,1780,1074892.8,644935.68,60.0,86.29,-2.18
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,30,2449.3,464,1780,1136475.2,616943.68,54.29,100.0,-1.97
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,40,2099.4,666,1780,1398200.4,652493.52,46.67,100.0,-1.97
+Training & Activewear,Pro Training Tracksuit,3499,1119.68,50,1749.5,985,1780,1723257.5,620372.7,36.0,100.0,-2.08
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,0,999.0,147,1726,146853.0,105734.16,72.0,34.07,-2.45
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,10,899.1,201,1726,180719.1,124495.38,68.89,46.58,-2.58
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,15,849.15,215,1726,182567.25,122427.45,67.06,49.83,-2.57
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,20,799.2,275,1726,219780.0,142857.0,65.0,63.73,-2.67
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,30,699.3,352,1726,246153.6,147692.16,60.0,81.58,-2.54
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,40,599.4,519,1726,311088.6,165913.92,53.33,100.0,-2.54
+Accessories & Gear,Apex Utility Duffel 30L,999,279.72,50,499.5,955,1726,477022.5,209889.9,44.0,100.0,-2.72
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,0,999.0,211,2843,210789.0,151768.08,72.0,29.69,-2.58
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,10,899.1,296,2843,266133.6,183336.48,68.89,41.65,-2.49
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,15,849.15,344,2843,292107.6,195883.92,67.06,48.4,-2.52
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,20,799.2,377,2843,301298.4,195843.96,65.0,53.04,-2.65
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,30,699.3,587,2843,410489.1,246293.46,60.0,82.59,-2.66
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,40,599.4,805,2843,482517.0,257342.4,53.33,100.0,-2.61
+Accessories & Gear,Ergonomic Sports Bottle,999,279.72,50,499.5,1379,2843,688810.5,303076.62,44.0,100.0,-2.7
+Accessories & Gear,Ventilated Run Cap,1999,559.72,0,1999.0,238,3395,475762.0,342548.64,72.0,28.04,-2.69
+Accessories & Gear,Ventilated Run Cap,1999,559.72,10,1799.1,339,3395,609894.9,420149.82,68.89,39.94,-2.74
+Accessories & Gear,Ventilated Run Cap,1999,559.72,15,1699.15,358,3395,608295.7,407915.94,67.06,42.18,-2.65
+Accessories & Gear,Ventilated Run Cap,1999,559.72,20,1599.2,430,3395,687656.0,446976.4,65.0,50.66,-2.66
+Accessories & Gear,Ventilated Run Cap,1999,559.72,30,1399.3,592,3395,828385.6,497031.36,60.0,69.75,-2.52
+Accessories & Gear,Ventilated Run Cap,1999,559.72,40,1199.4,986,3395,1182608.4,630724.48,53.33,100.0,-2.67
+Accessories & Gear,Ventilated Run Cap,1999,559.72,50,999.5,1475,3395,1474262.5,648675.5,44.0,100.0,-2.53
