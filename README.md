@@ -48,6 +48,16 @@ Subject to:
 
 ---
 
+## 📁 Repository Modules & File Links
+
+* 🖥️ **[`app.py`](./app.py)** — Interactive Streamlit commercial trading dashboard.
+* ⚙️ **[`pricing_engine.py`](./pricing_engine.py)** — Empirical price elasticity estimation and constrained markdown optimization solver.
+* 📊 **[`generate_trading_data.py`](./generate_trading_data.py)** — Retail pricing, COGS, and discount tier transaction generator.
+* 📈 **[`data/trading_markdown_data.csv`](./data/trading_markdown_data.csv)** — Category-level pricing elasticity and sell-through dataset.
+* 📦 **[`requirements.txt`](./requirements.txt)** — Core Python package dependencies.
+
+---
+
 ## 🖥️ Live Local Interface
 When running locally, your browser will automatically open with **PriceOptima** at:
 👉 `http://localhost:8502`
@@ -57,13 +67,3 @@ When running locally, your browser will automatically open with **PriceOptima** 
 * ⚖️ Side-by-side Revenue vs. Gross Profit margin trade-off visualizer.
 * 🎯 Commercial markdown optimization grid with constraint feasibility flags.
 * 📥 One-click export of the commercial trading strategy into an operational Excel spreadsheet (`.xlsx`).
-
----
-
-## 📁 Repository Modules & File Links
-
-* 🖥️ **[`app.py`](./app.py)** — Interactive Streamlit commercial trading dashboard.
-* ⚙️ **[`pricing_engine.py`](./pricing_engine.py)** — Empirical price elasticity estimation and constrained markdown optimization solver.
-* 📊 **[`generate_trading_data.py`](./generate_trading_data.py)** — Retail pricing, COGS, and discount tier transaction generator.
-* 📈 **[`data/trading_markdown_data.csv`](./data/trading_markdown_data.csv)** — Category-level pricing elasticity and sell-through dataset.
-* 📦 **[`requirements.txt`](./requirements.txt)** — Core Python package dependencies.
