@@ -48,35 +48,3 @@ $$\text{Sell-Through Rate (STR) } \% \ge \text{Target Liquidation Hurdle (e.g., 
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Documentation and business context
 ```
-
----
-
-## 🚀 Quickstart Guide
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/retail-markdown-pricing-optimizer.git
-cd retail-markdown-pricing-optimizer
-```
-
-### 2. Set up virtual environment & install dependencies
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 3. Run the application
-```bash
-streamlit run app.py
-```
-Open your browser at `http://localhost:8501`.
-
----
-
-## 💼 Resume Description (For Trading & Revenue Management Roles)
-
-**PriceOptima: Retail Markdown & Promotional Pricing Strategy Engine** | *Python, Scipy, Streamlit, Pandas*
-* Developed an algorithmic pricing optimizer for End-of-Season Sales (EOSS) across 15+ footwear and apparel SKUs.
-* Modeled empirical price elasticity ($\epsilon$) using log-log regression to simulate consumer discount sensitivity.
-* Formulated a constrained optimization solver balancing gross margin hurdle rates and inventory liquidation targets, generating commercial trading schedules exportable to Excel.
