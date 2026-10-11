@@ -48,6 +48,18 @@ Subject to:
 
 ---
 
+## 🖥️ Live Local Interface
+When running locally, your browser will automatically open with **PriceOptima** at:
+👉 `http://localhost:8502`
+
+**Interactive Capabilities in the UI:**
+* 📈 View empirical price elasticity curves across footwear and apparel categories.
+* ⚖️ Side-by-side Revenue vs. Gross Profit margin trade-off visualizer.
+* 🎯 Commercial markdown optimization grid with constraint feasibility flags.
+* 📥 One-click export of the commercial trading strategy into an operational Excel spreadsheet (`.xlsx`).
+
+---
+
 ## 📁 Repository Modules & File Links
 
 * 🖥️ **[`app.py`](./app.py)** — Interactive Streamlit commercial trading dashboard.
