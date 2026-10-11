@@ -40,11 +40,10 @@ $$\text{Sell-Through Rate (STR) } \% \ge \text{Target Liquidation Hurdle (e.g., 
 
 ---
 
-## 📁 Repository Structure
-```text
-├── app.py                      # Interactive Streamlit trading application
-├── pricing_engine.py           # Elasticity log-log regression & markdown optimizer
-├── generate_trading_data.py    # Synthesizer for retail pricing, COGS & sell-through
-├── requirements.txt            # Python dependencies
-└── README.md                   # Documentation and business context
-```
+## 📁 Repository Modules & File Links
+
+* 🖥️ **[`app.py`](./app.py)** — Interactive Streamlit commercial trading dashboard.
+* ⚙️ **[`pricing_engine.py`](./pricing_engine.py)** — Empirical price elasticity estimation ($\epsilon$) and constrained markdown optimization solver.
+* 📊 **[`generate_trading_data.py`](./generate_trading_data.py)** — Retail pricing, COGS, and discount tier transaction generator.
+* 📈 **[`data/trading_markdown_data.csv`](./data/trading_markdown_data.csv)** — Category-level pricing elasticity and sell-through dataset.
+* 📦 **[`requirements.txt`](./requirements.txt)** — Core Python package dependencies.
