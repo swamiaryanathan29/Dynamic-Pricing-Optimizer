@@ -2,9 +2,38 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Scipy](https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > An algorithmic commercial decision-support engine built for **Trading & Revenue Management** in modern retail. Maximizes gross profit and inventory liquidation during promotional events and End-of-Season Sales (EOSS).
+
+---
+
+### 📊 Quick Project Specifications
+
+| Attribute | Specification |
+|:---|:---|
+| **Domain** | Retail Commercial Trading & Dynamic Pricing Optimization |
+| **Econometric Model** | Empirical Price Elasticity log-log regression: `ln(Q) = α + ε · ln(P)` |
+| **Optimization Solver** | Constrained Profit Maximization with Margin & Sell-Through Hurdles |
+| **Decision Window** | 1 to 8 Week Promotional / End-of-Season Sales (EOSS) Campaigns |
+| **Interactive UI** | Streamlit + Plotly Revenue-Margin Trade-off Frontiers |
+| **Export Engine** | Enterprise-Ready Commercial Trading Sheet (`.xlsx`) |
+
+---
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart LR
+    A["Historical Markdown Data\n(MRP, COGS, Discounts)"] --> B["Log-Log Elasticity Engine\n(Category & SKU ε)"]
+    B --> C["Demand Uplift Curve\n(Price vs Unit Response)"]
+    C --> D["Constrained Profit Solver\n(Margin Hurdle & Sell-Through)"]
+    D --> E["Streamlit Trading Canvas\n(Pareto Trade-off Frontier)"]
+    D --> F["Commercial Markdown Plan\n(1-Click Excel .xlsx Export)"]
+```
 
 ---
 
